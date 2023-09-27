@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnM-J
-- 👀 I’m interested in website and game design
+- 👀 I’m interested in UI/UX and game design
 - 🌱 I’m currently learning HTML, CSS, and Python
 
 <!---
