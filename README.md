@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnM-J
-- 👀 I’m interested in UI/UX, game design, and AI
+- 👀 I’m interested in UI/UX, Front End Development, AR/VR, and AI/ML
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, and C++
 
 <!---
