@@ -4,8 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫About Me :
 - 👀 I'm currently working on an EPICS project for the nonprofit Rainbow Roundup
-- 🌱 Learning about Full-Stack development, AR/VR, and AI/ML
-- ✨ I’m interested in UI/UX, Front End Development, AR/VR, and AI/ML
+- ✨ I’m interested in UI/UX, Full-Stack Development, AR/VR, and AI/ML
 
 
 ## 🌐Socials
